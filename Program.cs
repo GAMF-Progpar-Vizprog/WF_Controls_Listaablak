@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Listaablak
+namespace WF_Controls_Listaablak
 {
 	static class Program
 	{

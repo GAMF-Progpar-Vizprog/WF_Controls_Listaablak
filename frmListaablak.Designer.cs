@@ -1,5 +1,5 @@
 ﻿
-namespace Listaablak
+namespace WF_Controls_Listaablak
 {
 	partial class frmListaablak
 	{

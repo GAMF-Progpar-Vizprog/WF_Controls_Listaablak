@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Listaablak
+namespace WF_Controls_Listaablak
 {
 	public partial class frmListaablak : Form
 	{
